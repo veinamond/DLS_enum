@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(19): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  LSGEN_NEW.vcxproj -> D:\Work\Programming\LSGEN_NEW\Debug\LSGEN_NEW.exe
+  LSGEN_NEW.vcxproj -> D:\Work\Programming\LSGEN_NEW\Debug\LSGEN_NEW.pdb (Full PDB)

@@ -1,0 +1,32 @@
+﻿  Source.cpp
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(104): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(284): warning C4129: M: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(286): warning C4129: A: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(296): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(388): warning C4129: M: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(390): warning C4129: A: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(400): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(685): warning C4129: M: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(687): warning C4129: A: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(697): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(991): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1139): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1281): warning C4129: M: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1283): warning C4129: A: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1293): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1516): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1573): warning C4129: ]: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1667): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1886): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(1947): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(2518): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(2718): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(3073): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(3328): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(3664): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(4136): warning C4129: {: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(4241): warning C4129: R: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(4242): warning C4129: C: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(4256): warning C4129: R: неизвестная escape-последовательность
+c:\users\stepan\desktop\current_work\dmd\archive\ls_codegen\ls_codegen\source.cpp(4257): warning C4129: C: неизвестная escape-последовательность
+  LS_Codegen.vcxproj -> C:\Users\Stepan\Desktop\Current_Work\DMD\archive\LS_Codegen\x64\Debug\LS_Codegen.exe

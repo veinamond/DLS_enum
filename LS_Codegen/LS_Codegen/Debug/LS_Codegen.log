@@ -1,0 +1,28 @@
+﻿  Source.cpp
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(124): warning C4129: {: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(175): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(215): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(295): warning C4129: M: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(297): warning C4129: A: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(307): warning C4129: {: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(399): warning C4129: M: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(401): warning C4129: A: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(411): warning C4129: {: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(571): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(579): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(584): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(593): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(609): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(696): warning C4129: M: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(698): warning C4129: A: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(708): warning C4129: {: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(870): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(878): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(883): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(892): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(908): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(1002): warning C4129: {: неизвестная escape-последовательность
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(1064): warning C4018: <: несоответствие типов со знаком и без знака
+d:\files_stepa\gdrive\work\ls_codegen\ls_codegen\source.cpp(1150): warning C4129: {: неизвестная escape-последовательность
+  LS_Codegen.vcxproj -> D:\Files_Stepa\GDRive\Work\LS_Codegen\Debug\LS_Codegen.exe

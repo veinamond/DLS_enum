@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(267): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(309): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(353): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(1033): warning C4101: CNT: неиспользованная локальная переменная
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(1032): warning C4101: L: неиспользованная локальная переменная
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(269): warning C4715: PROCESS_LSM_X: значение возвращается не при всех путях выполнения
+d:\work\programming\lsgen_new\lsgen_new\source.cpp(311): warning C4715: PROCESS_LSM_H: значение возвращается не при всех путях выполнения
+  LSGEN_NEW.vcxproj -> D:\Work\Programming\LSGEN_NEW\x64\Debug\LSGEN_NEW.exe
+  LSGEN_NEW.vcxproj -> D:\Work\Programming\LSGEN_NEW\x64\Debug\LSGEN_NEW.pdb (Full PDB)
